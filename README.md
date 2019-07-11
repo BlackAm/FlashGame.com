@@ -1,2 +1,2 @@
 # FlashGame.com
-GSM Network Programming source.
+GSM Network Programming FlashGame.com's source.
